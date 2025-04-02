@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  /* margin: 0; */
+
+}
+
+h1 {
+  background-color: rgb(185, 199, 211);
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.primaryColor{
+  background-color: aqua;
+}
