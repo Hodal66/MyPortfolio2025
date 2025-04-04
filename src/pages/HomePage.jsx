@@ -1,10 +1,11 @@
 import React from "react";
-import Wellcome from "../components/Wellcome";
+
+import LearnFunction from "../components/LearnFunction";
 
 function HomePage() {
   return (
     <div>
-      <Wellcome />
+      <LearnFunction />
     </div>
   );
 }

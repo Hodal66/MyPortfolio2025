@@ -1,15 +1,26 @@
 #root {
-  max-width: 1280px;
-  /* margin: 0; */
+  margin: 0;
 
 }
 
-h1 {
-  background-color: rgb(185, 199, 211);
+div .newDiv {
+  background-color: gainsboro;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px inset rebeccapurple;
+}
+
+button {
+  background-color: burlywood;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: medium;
+  cursor: pointer;
+}
+
+form {
   display: flex;
-  justify-items: center;
+  justify-content: center;
   align-items: center;
-}
-.primaryColor{
-  background-color: aqua;
+  gap: 2px;
 }
