@@ -24,3 +24,22 @@ form {
   align-items: center;
   gap: 2px;
 }
+
+li{
+  list-style: none;
+}
+.navigationSection{
+  background-color: rgb(198, 198, 224);
+  display: flex;
+}
+
+.navigationList ul{
+  display: flex;
+  justify-content: space-between;
+ gap: 24px;
+
+}
+.navigationSection img{
+  width: 50px;
+  height: 50px;
+}
